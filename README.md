@@ -5,8 +5,8 @@ Computational neuroscience examples with MATLAB/GNU Octave.
 
 ### Raster plot
 
-![](figs\A1_raster_plot.png)
+![](figs/A1_raster_plot.png)
 
 ### Peri-Event Time Histogram (PETH)
 
-![](figs\A2_peth.png)
+![](figs/A2_peth.png)
