@@ -10,3 +10,11 @@ Computational neuroscience examples with MATLAB/GNU Octave.
 ### Peri-Event Time Histogram (PETH)
 
 ![](figs/A2_peth.png)
+
+### Curve Fitting
+
+![](figs/A3_curve_fitting.png)
+
+### PCA
+
+![](figs/A4_PCA.png)
