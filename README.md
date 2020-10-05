@@ -18,3 +18,7 @@ Computational neuroscience examples with MATLAB/GNU Octave.
 ### PCA
 
 ![](figs/A4_PCA.png)
+
+### Spike Density Function
+
+![](figs/A5_spike_density_func.png)
