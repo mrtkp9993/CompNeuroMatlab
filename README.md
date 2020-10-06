@@ -46,3 +46,7 @@ Mutual information
 ### Heat map of mean spiking for various intensity stimuli
 
 ![](figs/A7_heat_map.png)
+
+### Fast Fourier Transform (FFT)
+
+![](figs/A8_fft.png)
