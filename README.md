@@ -42,3 +42,7 @@ Entropy of stimulus S
 Mutual information
     0.4996
 ```
+
+### Heat map of mean spiking for various intensity stimuli
+
+![](figs/A7_heat_map.png)
