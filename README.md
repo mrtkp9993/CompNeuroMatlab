@@ -53,4 +53,4 @@ Mutual information
 
 ### Spectrogram
 
-![](figs/A9_spectrograms.png)
+![](figs/A9_spectrogram.png)
