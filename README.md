@@ -50,3 +50,7 @@ Mutual information
 ### Fast Fourier Transform (FFT)
 
 ![](figs/A8_fft.png)
+
+### Spectrogram
+
+![](figs/A9_spectrograms.png)
